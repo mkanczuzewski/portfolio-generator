@@ -1,0 +1,7 @@
+npm init - You'll now be guided through a series of prompts to fill out. All of this information will 
+    ultimately be used to create a manifest file for your application, which helps provide context as to 
+    what your application needs to run, who created it, where it lives on GitHub
+npm install inquirer - do this at the root of the project directory to install the question prompts module.
+fs module doesnt require an install, its already a part of npm
+npm install - This command reads the corresponding package-lock.json file, downloads the dependencies 
+    from npm, and saves them in the node_modules folder.
